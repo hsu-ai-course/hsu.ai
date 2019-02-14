@@ -7,6 +7,8 @@ doc2vec/word2vec methods consider word appearances in relatively small surroundi
 Advances methods like DSSM also work with 3-trams, allowing to fix typos.
 Your *hometask* is to sum up results of today’s labs and *build search engine powered with doc2vec technology*.
 
+Commit your code into this folder with your `full name+` as `file name`.
+
 # Part 2 (advanced) #
 *Speak with AI in your language*
 Summarize experience of this week. Ask questions in you native language and get answers from AI services.
@@ -22,4 +24,4 @@ NB: for machine tranlation you can use any of online services. Try:
 - https://translate.yandex.com/developers
 - ...
 
-Commit your text file into this folder with your `full name` as `file name`.
+Commit your code and database into this folder with your `full name+` as `file name`.
