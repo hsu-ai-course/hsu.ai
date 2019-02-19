@@ -1,0 +1,20 @@
+Source: https://arxiv.org/pdf/1802.07740.pdf
+
+What was actually done?
+The theory of mind is a human ability to detect and sense beliefs, intents, desires, emotions, knowledge, etc, of yourself and of others, and to also comprehend that the views, beliefs and intentions of others might differ from your own. This theory is crucial as it allows people to judge and predict other peoples behaviours within everyday social interactions. In this experiment they created numerous different species of random agents, sampled agents from them, and generated behavioural traces on a distribution of random 11 × 11 grid-worlds. They separated these agents into different species that have different ways of seeing their outside world and have different perceptions on their reality. They studied the patterns and predictions of each different species.
+
+What was the experiment (with numbers and results)?
+They had created these random agents that move around a virtual grid and collect coloured boxes.There were three different species, “One couldn’t see the surrounding room, one couldn’t remember its recent steps, and one could both see and remember”. The goal for the ToMnet after observing many agents was to correctly identify an agent’s species which would allow for a prediction of future behaviour. Therefore, the agents had to reach a subgoal on a grid-worlds environment (3D visual environments) and then consume a preferred object that was different form agent to agent. 120 (3 species x 4 preferred objects x 10 initial random seeds) agents were trained and used in the experiment. Not only was the ToMnet able to grasp the different types of personalities but could also discover unexpected substructures. They have also specified that toddlers (humans) were able to do these tasks with basically always a perfect score.
+
+What *ideas from ToM* were used?
+Theory of mind is used to predict behaviour based on the different characteristics from each agent. They studied how these agents acted based on the predictions they had about these agents.
+
+What is the solution architecture?
+The architecture for this solution is a neural network that includes three modules. These modules include the character net, the mental state net, and the prediction net.
+
+
+
+
+
+
+https://en.wikipedia.org/wiki/Theory_of_mind
