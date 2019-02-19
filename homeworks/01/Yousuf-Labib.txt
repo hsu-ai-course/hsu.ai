@@ -1,0 +1,21 @@
+What actually was done?
+
+Trying to understand humans by mimicking the human brain and human characteristics in computers to increase its awareness to make the computer more human-like; such as logic, belief and emotions.
+
+Also how to take these patterns and predict where it will lead them into the future.   
+
+What was the experiment (with numbers and results)?
+
+The experiment consisted of 3 networks which learned from connections and experiences. 
+Trying to also implement beliefs, and figure out what was the right or wrong way. 
+
+What ideas from ToM were used?
+
+Its past steps and not remembering making it able to map out the future and planning out steps and suggesting what would happen. it has perfect accuracy suggesting where test and experiments will go. 
+
+What is the solution architecture?
+
+
+It uses an abstract-form of probabilistic reasoning rather than direct neurons as implemented before in machine learning. 
+
+It has the 3 stages of analyzing such as tendencies, understanding and the third is predictability. 
