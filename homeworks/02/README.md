@@ -1,11 +1,6 @@
 # 3D XO (mandatory) #
-Write a bot that plays 3x3x3 cubic tic-tac-toe.
-Consider you have a cube, where you can put a piece only on top of the floor or other piece (rule of gravity).
-
-![XO](./xo.jpg)
-
-Any row of 3 is a win.
-Write a bot that plays this version of XO.
+Write a bot that plays 3x3 regular tic-tac-toe.
+Use [this snippet](https://github.com/hsu-ai-course/hsu.ai/blob/master/code/02.%20Ti%D1%81-Ta%D1%81-Toe.ipynb) as a starting point.
 
 # Strange chess (advanced) #
 Imaging chessboard like this:
