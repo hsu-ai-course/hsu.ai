@@ -1,0 +1,19 @@
+In this report they created a program that could effectively read the actions (minds in a way) of other computers, 
+and effectively predict their future behaviour.
+They tested this by giving computers tasks to move around a virtual room collecting boxes. 
+One had no vision of the room, one couldn’t remember its steps and one could do everything. 
+The computer that was set to read their behaviour could effectively read the actions of the 3 testees, 
+and successfully predict their actions!
+
+ToMnets idea behind this was that 1 day they want to read the minds of humans and animals 1 day.
+ToMnet infers beliefs more efficiently than his team’s system,
+which is based on a more abstract form of probabilistic reasoning rather than neural networks.
+But ToMnet’s understanding is more tightly bound to the contexts in which it’s trained, he adds,
+making it less able to predict behavior in radically new environments, as his system or even young children can do. 
+ToMnet wants to improve computers’ cooperation with humans, and they want them to mimic human behaviour. 
+They want them to even collaborate on playing games with humans, and to be more proficient than any human!
+
+The solution Architecture of such a program is three neural networks, each made of small computing elements and 
+connections that learn from experience, loosely resembling the human brain. The first network learns 
+the tendencies of other AIs based on their past actions. The second forms an understanding of their current “beliefs.” 
+And the third takes the output from the other two networks and, depending on the situation, predicts the AI’s next moves.
