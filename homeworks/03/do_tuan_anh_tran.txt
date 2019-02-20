@@ -1,0 +1,13 @@
+1. 
+	(is tiger eatable)
+2. 
+	(weapon harry), 
+	(range harry small),
+3. 
+	(got-cash bob),
+	(work bob), 
+	(person bob)
+4. 
+	(female steve), 
+	(psychopath steve), 
+	(village has weapon)
