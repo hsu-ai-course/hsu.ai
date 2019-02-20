@@ -6,7 +6,7 @@ Level 1:
 	(eats tiger animal)
 	(eats plant light)
     
-    (is tiger eatable)
+    	(is tiger eatable)
 )
 
 (defrule things-can-be-fed
@@ -42,6 +42,6 @@ Level 2:
 	(range bow large)
 	(distance small)
     
-    (weapon harry)
-    (range harry small)
+    	(weapon harry)
+    	(range harry small)
 )
