@@ -1,0 +1,47 @@
+CLIPS-game
+Level 1:
+(deffacts initial-facts
+	(is tiger animal)
+	(is grass plant)
+	(eats tiger animal)
+	(eats plant light)
+    
+    (is tiger eatable)
+)
+
+(defrule things-can-be-fed
+	(is ?what eatable)
+	(is ?what ?food)
+	(eats ?target ?food)
+	=>
+	(assert (is ?target fed))
+)
+
+
+Level 2:
+(defrule weapon-wins	
+	(weapon ?item)
+	(range ?item ?type)
+	(distance ?type)
+	=>
+	(assert (wins ?item))
+)
+
+(defrule battle
+	(warrior ?person)
+	(has ?person ?weapon)
+	(wins ?weapon)
+	=>
+	(assert (wins ?person))
+)
+
+(deffacts inital-facts
+	(warrior harry)
+	(has harry bow)
+	(weapon bow)
+	(range bow large)
+	(distance small)
+    
+    (weapon harry)
+    (range harry small)
+)
