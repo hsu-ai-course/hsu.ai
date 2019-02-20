@@ -1,0 +1,18 @@
+L1
+answer:
+(is tiger eatable)
+
+L2
+answer:
+(weapon harry)
+(range harry small)
+
+L3
+(got-cash bob)
+(work bob)
+(person bob)
+
+L4
+(female steve)
+(psychopath steve)
+(village has weapon)
