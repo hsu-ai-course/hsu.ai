@@ -1,5 +1,5 @@
 lvl 1: 
-is tiger fed
+is tiger eatable
 
 lvl 2:
 weapon harry
