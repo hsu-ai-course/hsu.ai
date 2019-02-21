@@ -1,4 +1,4 @@
-# Part 1 (mandatory) #
+# Google v1999 (mandatory) #
 Use results of [lab #1](https://github.com/hsu-ai-course/hsu.ai/blob/master/code/05.%20Stemming.ipynb) and [lab #2](https://github.com/hsu-ai-course/hsu.ai/blob/master/code/05.%20Search%20engine%201.ipynb).
 1. Store **stemmed** lexicon as a vector.
 2. Create TDM (list of vectors) representing all sentences 1-by-1.
