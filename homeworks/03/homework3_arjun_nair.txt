@@ -1,0 +1,16 @@
+lvl 1: 
+is tiger eatable
+
+lvl 2:
+weapon harry
+range harry small
+
+lvl 3:
+got-cash bob
+work bob
+person bob
+
+lvl 4:
+female steve
+psychopath steve
+village has weapon 

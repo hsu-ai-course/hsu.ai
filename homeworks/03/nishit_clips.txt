@@ -1,0 +1,13 @@
+# Nishit
+
+1. > (assert (is tiger eatable))
+2. > (assert (weapon harry))
+    > (assert (range harry small))
+
+
+
+
+
+
+
+
