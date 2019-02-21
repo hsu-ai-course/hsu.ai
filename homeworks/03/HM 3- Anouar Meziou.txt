@@ -1,0 +1,5 @@
+Clips the game
+
+Level 1/tiger: (is tiger eatable)
+Level 2/bow: (weapon harry) and (range harry small)
+
