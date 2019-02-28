@@ -2,7 +2,7 @@
 
 ### ONE ###
 **Q**: How many red and yellow stones are on this image? 
-![curling](https://github.com/hsu-ai-course/hsu.ai/tree/master/code/datasets/images/curling.jpg)
+![curling](../../code/datasets/images/curling.jpg)
 
 
 ### TWO ###
