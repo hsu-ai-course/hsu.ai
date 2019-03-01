@@ -13,7 +13,7 @@ Demonstrate the same skill as in __mandatory__ part.
 For a [dataset](http://vis-www.cs.umass.edu/lfw/person/Charles_Taylor.html) train any simple classifier.
 Suggested:
 - [linear](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html#sklearn.linear_model.LogisticRegression)
-- [SVM Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) / (Linear SVC)[https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC]
+- [SVM Classifier](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html) / [Linear SVC](https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html#sklearn.svm.LinearSVC)
 - [MLP](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
 Use can use `scikit.learn` or other library.
 As there is very big number of classes, you can select only people who have 4+ images.
