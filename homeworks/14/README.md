@@ -1,8 +1,9 @@
 ## Mandatory ##
 For [this file](../../code/datasets/ml/cut.mp4) in **automatic way**:
-- detect what is this film about?
-- create subtitles.
-Step by step:
+- __detect what is this film about?__
+- __create subtitles.__
+
+**Step by step:**
 - For subtitles:
   - extact audio using ffmpeg: [here is how to do this using ffmpeg](https://stackoverflow.com/a/26741357)
   - recognize speech using Google API or any other framework: [refer to this hometask](https://github.com/hsu-ai-course/hsu.ai/tree/master/homeworks/07)
