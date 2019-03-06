@@ -15,3 +15,11 @@ For [this file](../../code/datasets/ml/cut.mp4) in **automatic way**:
   - select 2 most popular tags. Print them.
     
 
+## Advanced ##
+`OpenFace = DLib + Torch + OpenFace`
+- Install OpenFace using [this script](https://github.com/hsu-ai-course/hsu.ai/blob/master/code/14.%20OpenFace-setup.sh).
+- Implement face recognition inside your class (or other small group).
+- System should provide candidate name and confidence for a webcam photo.
+
+OpenFace will create you embeddings for the faces.
+You can refer to [this script](https://github.com/cmusatyalab/openface/blob/master/demos/compare.py#L92) for image embedding. After you can apply any classifer to create classes. I suggest kNN as the number of samples will be small.
