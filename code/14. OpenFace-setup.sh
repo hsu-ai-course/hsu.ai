@@ -1,12 +1,24 @@
+# dlib ######################################################################
 
-# dlib
+## PLAN A
+pip install cmake && pip install dlib
+## or at least 
+pip install cmake && pip install dlib==19.4
+
+## PLAN B, worst case
 git clone https://github.com/davisking/dlib
 sudo apt install cmake
 mkdir build; cd build; cmake .. ; cmake --build .
 cd ..
+# maybe python3
 sudo python2 setup.py install
 
-# torch
+# torch #####################################################################
+
+# PLAN A
+pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+##PLAN B, worst case
 git clone https://github.com/torch/distro.git --recursive
 cd torch; bash install-deps;
 ./install.sh
@@ -18,7 +30,8 @@ luarocks install torchx
 luarocks install csvigo
 
 
-# openface
+# openface ####################################################################
+
 git clone https://github.com/cmusatyalab/openface.git
 cd openface
 pip2 install -r requirements.txt
