@@ -24,7 +24,7 @@ murmurhash~=1.0.5
 nest-asyncio~=1.5.1
 networkx~=2.6.3
 nltk~=3.6.2
-numpy~=1.20.3
+numpy
 opencv-contrib-python~=4.5.3.56
 opencv-python~=4.5.3.56
 pandocfilters~=1.5.0
@@ -41,12 +41,12 @@ sentencepiece~=0.1.96
 spacy~=3.1.2
 spacy-legacy~=3.0.8
 SpeechRecognition~=3.8.1
-streamlit~=0.88.0
+streamlit
 sympy~=1.8
 tensorboard~=2.6.0
 terminado~=0.12.1
 tokenizers~=0.10.3
-torch~=1.9.0
-torchvision~=0.10.0
+torch
+torchvision
 tqdm~=4.62.2
 transformers~=4.10.0
